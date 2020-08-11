@@ -1,5 +1,5 @@
-from strategy.StrategyInterface import StrategyInterface
-from strategy.AdditionStrategy import AdditionStrategy
+from strategy.strategies.StrategyInterface import StrategyInterface
+from strategy.strategies.AdditionStrategy import AdditionStrategy
 
 
 class Calculator(object):
